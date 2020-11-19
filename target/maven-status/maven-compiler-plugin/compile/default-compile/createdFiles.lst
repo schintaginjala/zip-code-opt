@@ -1,0 +1,4 @@
+com\wis\zip\code\opt\ZipCode.class
+com\wis\zip\code\opt\ZipCodeServiceException.class
+com\wis\zip\code\opt\ZipCodeRangeOptimiser.class
+com\wis\zip\code\opt\ZipCodeRangeOptimiserImpl.class
